@@ -1,0 +1,15 @@
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\bin\Debug\net6.0\olamundo2.exe
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\bin\Debug\net6.0\olamundo2.deps.json
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\bin\Debug\net6.0\olamundo2.runtimeconfig.json
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\bin\Debug\net6.0\olamundo2.dll
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\bin\Debug\net6.0\ref\olamundo2.dll
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\bin\Debug\net6.0\olamundo2.pdb
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\obj\Debug\net6.0\olamundo2.csproj.AssemblyReference.cache
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\obj\Debug\net6.0\olamundo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\obj\Debug\net6.0\olamundo2.AssemblyInfoInputs.cache
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\obj\Debug\net6.0\olamundo2.AssemblyInfo.cs
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\obj\Debug\net6.0\olamundo2.csproj.CoreCompileInputs.cache
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\obj\Debug\net6.0\olamundo2.dll
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\obj\Debug\net6.0\ref\olamundo2.dll
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\obj\Debug\net6.0\olamundo2.pdb
+C:\Users\lab00-00\Documents\olamundo2\olamundo2\obj\Debug\net6.0\olamundo2.genruntimeconfig.cache
